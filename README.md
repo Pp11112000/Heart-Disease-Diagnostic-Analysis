@@ -1,4 +1,4 @@
-# Heart disease diagnostic analysis Ineuron.ai
+# Heart Disease Diagnostic Analysis 
 
 __Project Title:__ Heart Disease Diagnostic - Analysis
 
@@ -24,7 +24,7 @@ Thus, it has become necessary to take precautionary measures to prevent and redu
 
 Health is real wealth in the pandemic time we all realized the brute effects of covid-19 on all irrespective of any status. You are required to do the research, analyze this health and medical data for better future preparation. 
 
-### Business Objectives:
+### Business Objectives: 🎯
 
 	Performing EDA through Python and find insights.
 	Extract various information such as heart disease rates, Heart disease by - gender, by age.
