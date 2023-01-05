@@ -55,3 +55,5 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
  Cholesterol and maximum heart rate Increasing in the age group of 50 to 60.
 
  ST Depression Peak (Flat and Upsloping) is seen more in old age people having Heart Disease.
+
+### Power BI Public Dashboard Link: https://app.powerbi.com/links/OU12ZvudCq?ctid=8b178bc9-159c-4211-9747-f0ae84fa3369&pbi_source=linkShare
