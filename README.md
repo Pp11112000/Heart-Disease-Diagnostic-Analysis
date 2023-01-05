@@ -56,4 +56,6 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 
  ST Depression Peak (Flat and Upsloping) is seen more in old age people having Heart Disease.
 
-### Power BI Public Dashboard Link: https://app.powerbi.com/links/OU12ZvudCq?ctid=8b178bc9-159c-4211-9747-f0ae84fa3369&pbi_source=linkShare
+### Power BI Public Dashboard Link: 
+
+https://app.powerbi.com/reportEmbed?reportId=2ee7ea46-832f-48ef-8016-6eb19109e191&autoAuth=true&ctid=8b178bc9-159c-4211-9747-f0ae84fa3369
