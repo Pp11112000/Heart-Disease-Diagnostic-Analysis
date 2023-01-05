@@ -24,10 +24,14 @@ Thus, it has become necessary to take precautionary measures to prevent and redu
 
 Health is real wealth in the pandemic time we all realized the brute effects of covid-19 on all irrespective of any status. You are required to do the research, analyze this health and medical data for better future preparation. 
 
-### Business Objectives: 🎯
+### Business Objectives: 
 
 	Performing EDA through Python and find insights.
+
 	Extract various information such as heart disease rates, Heart disease by - gender, by age.
+
 	Compare attributes of the dataset to extract necessary information.
+
 	Make Dashboard with extracted information from data.
+
 	Find key metrics and factors and show relationship between attributes.
