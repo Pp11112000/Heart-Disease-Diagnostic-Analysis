@@ -12,7 +12,7 @@ __Programming Language Used:__ Python
 
 __Tools Used:__ Jupyter Notebook, MS-Excel, Power BI
 
-### Project Introduction:
+### Project Introduction: 📀
 
 Health is real wealth in the pandemic time, and we all realized the brute effects of covid-19 on all irrespective of any status. You are required to analyse this health and medical data for better future preparation. 
 
@@ -20,11 +20,11 @@ Heart Disease is a general term that includes many types of heart problems, and 
 
 Thus, it has become necessary to take precautionary measures to prevent and reduce the heart diseases among people. Therefore, to make sure that the people live healthy lives, the needed research and the prevention process of heart disease can be improved by using good data driven systems for understanding the patterns.
 
-### Problem Statement: 
+### Problem Statement: ❓ 
 
 Health is real wealth in the pandemic time we all realized the brute effects of covid-19 on all irrespective of any status. You are required to do the research, analyze this health and medical data for better future preparation. 
 
-### Business Objectives: 
+### Business Objectives: 🎯
 
 	Performing EDA through Python and find insights.
 
@@ -36,7 +36,7 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 
 	Find key metrics and factors and show relationship between attributes.
 
-### Conclusion:
+### Conclusion: 💡
 
  45.87% People suffering from heart disease.
 
