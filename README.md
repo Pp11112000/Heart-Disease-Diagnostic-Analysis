@@ -1,1 +1,1 @@
-# -Heart-disease-diagnostic-analysis-Ineuron.ai
+# Heart disease diagnostic analysis Ineuron.ai
