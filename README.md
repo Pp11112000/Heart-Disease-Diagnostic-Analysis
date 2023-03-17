@@ -24,35 +24,35 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 
 ### Business Objectives: 
 
-	Performing EDA through Python and find insights.
+-	Performing EDA through Python and find insights.
 
-	Extract various information such as heart disease rates, Heart disease by - gender, by age.
+-	Extract various information such as heart disease rates, Heart disease by - gender, by age.
 
-	Compare attributes of the dataset to extract necessary information.
+-	Compare attributes of the dataset to extract necessary information.
 
-	Make Dashboard with extracted information from data.
+-	Make Dashboard with extracted information from data.
 
-	Find key metrics and factors and show relationship between attributes.
+-	Find key metrics and factors and show relationship between attributes.
 
 ### Conclusion: 
 
- 45.87% People suffering from heart disease.
+- 45.87% People suffering from heart disease.
 
- Elderly Aged Men are more (50 to 60 Years) and Females are more in (55 to 65) Years Category.
+- Elderly Aged Men are more (50 to 60 Years) and Females are more in (55 to 65) Years Category.
 
- Males are more prone to heart disease.
+- Males are more prone to heart disease.
 
- Elderly Aged People are more prone to heart disease.
+- Elderly Aged People are more prone to heart disease.
 
- People having asymptomatic chest pain have a higher chance of heart disease.
+- People having asymptomatic chest pain have a higher chance of heart disease.
 
- High number of cholesterol level in people having heart disease.
+- High number of cholesterol level in people having heart disease.
 
- Blood Pressure increases between age of 50 to 60 and somehow continue till 70.
+- Blood Pressure increases between age of 50 to 60 and somehow continue till 70.
 
- Cholesterol and maximum heart rate Increasing in the age group of 50 to 60.
+- Cholesterol and maximum heart rate Increasing in the age group of 50 to 60.
 
- ST Depression Peak (Flat and Upsloping) is seen more in old age people having Heart Disease.
+- ST Depression Peak (Flat and Upsloping) is seen more in old age people having Heart Disease.
 
 ### Power BI Public Dashboard Link: 
 
