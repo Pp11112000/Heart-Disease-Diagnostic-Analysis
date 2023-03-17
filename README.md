@@ -6,8 +6,6 @@ __Technology:__ Business Intelligence
 
 __Domain:__ Healthcare
 
-__Project Difficulty Level:__ Advanced
-
 __Programming Language Used:__ Python
 
 __Tools Used:__ Jupyter Notebook, MS-Excel, Power BI
