@@ -1,5 +1,15 @@
 # Heart Disease Diagnostic Analysis 
 
+###  Demo
+
+
+
+### Dashboard links
+
+- Novypro Dashboard: https://www.novypro.com/project/heart-disease-diagnostic-analysis
+
+- Power BI Service: https://app.powerbi.com/view?r=eyJrIjoiNzkwY2MzZTMtYzg3MC00NmEzLWIyY2UtMzk2ZjkwMWRjMzIxIiwidCI6ImNjOTdlOGYzLTk0MjYtNDUzNi04ZDY4LWU2NTFlM2Q4MmQwZiJ9
+
 __Project Title:__ Heart Disease Diagnostic - Analysis
 
 __Technology:__ Business Intelligence
