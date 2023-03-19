@@ -62,7 +62,7 @@ https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Datase
 
 [High Level Documentation](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/HLD%20(High%20Level%20Design).pdf)
 
-[Low Level Documentation]()
+[Low Level Documentation](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/LLD%20(Low%20Level%20Design).pdf)
 
 [Architecture Documentation]()
 
