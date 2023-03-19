@@ -66,6 +66,6 @@ https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Datase
 
 [Architecture Documentation](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/Architecture%20Design.pdf)
 
-[WireFrame]()
+[WireFrame](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/Wireframe%20Document.pdf)
 
 [Detail Project Report]()
