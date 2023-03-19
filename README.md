@@ -68,4 +68,4 @@ https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Datase
 
 [WireFrame](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/Wireframe%20Document.pdf)
 
-[Detail Project Report]()
+[Detail Project Report](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/Detailed%20Project%20Report.pdf)
