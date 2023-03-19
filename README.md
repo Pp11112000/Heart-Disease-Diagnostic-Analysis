@@ -24,7 +24,7 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 
 - Dataset Link: 
 
-https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Dataset/heart_disease_dataset.csv
+https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Dataset/Raw%20dataset.csv
 
 ### Business Objectives: 
 
