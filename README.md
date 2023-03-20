@@ -12,15 +12,15 @@ https://user-images.githubusercontent.com/95831940/226248475-9af27601-04b2-4c45-
 
 ### Project Details
 
-__Project Title:__ Heart Disease Diagnostic - Analysis
+-__Project Title:__ Heart Disease Diagnostic - Analysis
 
-__Technology:__ Business Intelligence
+-__Technology:__ Business Intelligence
 
-__Domain:__ Healthcare
+-__Domain:__ Healthcare
 
-__Programming Language Used:__ Python
+-__Programming Language Used:__ Python
 
-__Tools Used:__ Jupyter Notebook, MS-Excel, Power BI
+-__Tools Used:__ Jupyter Notebook, MS-Excel, Power BI
 
 ### Project Introduction
 
