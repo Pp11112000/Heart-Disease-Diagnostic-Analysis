@@ -10,6 +10,8 @@ https://user-images.githubusercontent.com/95831940/226248475-9af27601-04b2-4c45-
 
 - Power BI Service: https://app.powerbi.com/view?r=eyJrIjoiNzkwY2MzZTMtYzg3MC00NmEzLWIyY2UtMzk2ZjkwMWRjMzIxIiwidCI6ImNjOTdlOGYzLTk0MjYtNDUzNi04ZDY4LWU2NTFlM2Q4MmQwZiJ9
 
+### Project Details
+
 __Project Title:__ Heart Disease Diagnostic - Analysis
 
 __Technology:__ Business Intelligence
