@@ -68,7 +68,7 @@ https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Datase
 
 - ST Depression Peak (Flat and Upsloping) is seen more in old age people having Heart Disease.
 
-## Documentation
+### Documentation
 
 [High Level Documentation](https://github.com/Pp11112000/Heart-Disease-Diagnostic-Analysis/blob/main/Documentation/HLD%20(High%20Level%20Design).pdf)
 
