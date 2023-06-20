@@ -20,6 +20,8 @@ https://user-images.githubusercontent.com/95831940/226248475-9af27601-04b2-4c45-
 
 - __Programming Language Used:__ Python
 
+- __Python Libraries Used:__ Numpy, Pandas, Matplotlib, Seaborn
+
 - __Tools Used:__ Jupyter Notebook, MS-Excel, Power BI
 
 ### Project Introduction
